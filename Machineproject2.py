@@ -1,7 +1,7 @@
 x0 = ' Zombie Protection System'
 bubble = '*' * len(x0)
 print('{0}{0}{0}\n{0}{1}{0}\n{0}{0}{0}'.format(bubble,x0))
-print('  Fatima Hameed.\n ****************\n This group teamed up to generate a program to save the world\n *************************************************************************************************=========================') 
+print('  Fatima Hameed.\n ****************\n Part of a group who teamed up to generate a program to save the world\n *************************************************************************************************=========================') 
 x1 ='We will calculate your foraging missions '
 bubble2 = '=' * len(x1)
 print('{1}{0}'.format(bubble2,x1))
