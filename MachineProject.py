@@ -11,7 +11,7 @@ print("Daylight-Sensitive Zombie Protection System")
 print("*********************************")
 print("This program will calculate sunrise and sunset time for any date and location")
 print("===================================================================================")
-print('This zombie protection system was created by; \n Datalla Muhammad.\n Fatima Hamaeed.\n Tisan Lucas.\n Charlotte Mgbe.\n Fadlullah Yunusa.\n Bilaal Mustapha')
+print('This zombie protection system was created by; Fatima Hamaeed.')
 
 
 
